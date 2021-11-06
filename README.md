@@ -1,10 +1,10 @@
 
 
-# Search Widget
+# Hidden-Search-Widget
 
 ## Live Demo
 
-[Live Demo Link](https://meri-mg.github.io/Search-Widget-Project-04/)
+[Live Demo Link](https://meri-mg.github.io/Hidden-Search-Widget-Project-04/)
 
 ## Built with
 - CSS
